@@ -19,10 +19,11 @@ layout: default
     </header>
     {% for skill in site.data.skills %}
     <div class="resume-item">
-      <h4 class="resume-item-details">{{ skill.skill }}</h4>
-      <p class="resume-item-copy">{{ skill.description }}</p>
+      <h4 class="resume-item-title">{{ skill.skill }}</h4>
+      <p class="resume-item-details">{{ skill.description }}</p>
     </div>
     {% endfor %}
+    
 
   </section>
   <!-- end Skills -->
@@ -36,7 +37,6 @@ layout: default
 
   {% if site.resume_section_education %}
   <br>
-  <br>
   <!-- begin Activities -->
   <section class="content-section">
     <header class="section-header">
@@ -44,17 +44,17 @@ layout: default
       <h1 id="posts-label">Activities</h1>
     </header>
 
-    {% for education in site.data.education %}
-    <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
-      <h4 class="resume-item-title" itemprop="name">{{ education.uni }} &bull; {{ education.year }}</h3>
+    {% for activity in site.data.activities %}
+    <div class="resume-item">
+      <h4 class="resume-item-title" itemprop="name">{{ activity.company }} &bull; {{ activity.duration }}</h3>
       <!-- <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</h4> -->
-      <p class="resume-item-copy">{{ education.summary }}</p>
+      <p class="resume-item-details" itemprop="description">{{ activity.summary }}</p>
       
-      <h5 class="resume-item-details award-title" itemprop="description">{{ education.award }}</h5>
-      <p class="resume-item-copy" itemprop="description">
+      <!-- <h5 class="resume-item-details award-title" itemprop="description">{{ activity.summary }}</h5> -->
+      <p class="resume-item-details" itemprop="description">
         <ul class="resume-item-list">
-          {% for award in education.awards %}
-          <li>{{ award.award }}</li>
+          {% for result in activity.result %}
+          <li>{{ result.result }}</li>
           {% endfor %}
         </ul></h5>
 
@@ -74,7 +74,6 @@ layout: default
 
   {% if site.resume_section_experience %}
   <br>
-  <br>
   <!-- begin Experience -->
   <section class="content-section">
 
@@ -82,11 +81,11 @@ layout: default
       <h1 id="posts-label">Prizes</h1>
     </header>
 
-    {% for job in site.data.experience %}
-    <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
-      <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
-      <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
-      <p class="resume-item-copy">{{ job.summary }}</p>
+    {% for prize in site.data.prizes %}
+    <div class="resume-item">
+      <h4 class="resume-item-title" itemprop="name">{{ prize.name }}</h3>
+      <p class="resume-item-details" itemprop="description">{{ prize.company }} &bull; {{ prize.date }}</h4>
+      <p class="resume-item-details" itemprop="description">{{ prize.summary }}</p>
     </div><!-- end of resume-item -->
     {% endfor %}
 
@@ -99,171 +98,44 @@ layout: default
 
 
 
-
-
-
-  {% if site.resume_section_projects %}
   <!-- begin Projects -->
+  <br>
+  <br>
   <section class="content-section">
     <header class="section-header">
       <!-- <h2>Projects</h2> -->
       <h1 id="posts-label">Projects</h1>
     </header>
 
-    {% for project in site.data.projects %}
-    <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-      <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
-      <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
-      <p class="resume-item-copy">{{ project.description }}</p>
-    </div>
-    {% endfor %}
-
-  </section>
-  <!-- end Projects -->
-  {% endif %}
-
-
-
-
-
-
-
-
-  {% if site.resume_section_recognition %}
-  <!-- begin Recognition -->
-  <section class="content-section">
-
-    <header class="section-header">
-      <h2>Recognition</h2>
-    </header>
-
-    {% for recognition in site.data.recognitions %}
-    <div class="resume-item">
-      <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
-      <h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>
-      <p class="resume-item-copy">{{ recognition.summary }}</p>
-    </div>
-    {% endfor %}
-
-  </section>
-  <!-- end Recognition -->
-  {% endif %}
-
-
-
-  {% if site.resume_section_associations %}
-  <!-- begin Associations -->
-  <section class="content-section">
-
-    <header class="section-header">
-      <h2>Associations</h2>
-    </header>
-
-    {% for association in site.data.associations %}
-    <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
-      <h3 class="resume-item-title" itemprop="name">{% if association.url %}<a href="{{ association.url }}">{{ association.organization }}</a>{% else %}{{ association.organization }}{% endif %}</h3>
-      <h4 class="resume-item-details" itemprop="description">{{ association.role }} &bull; {{ association.year }}</h4>
-      <p class="resume-item-copy">{{ association.summary }}</p>
-    </div>
-    {% endfor %}
-
-  </section>
-  <!-- end Associations -->
-  {% endif %}
-
-
-
-
-
-  {% if site.resume_section_interests %}
-  <!-- begin Interests -->
-  <section class="content-section">
-
-    <header class="section-header">
-      <h2>Outside Interests</h2>
-    </header>
-
-    <div class="resume-item">
-      <ul class="resume-item-list">
-        {% for interest in site.data.interests %}
-        <li>{{ interest.description }}</li>
-        {% endfor %}
-      </ul>
-    </div>
-
-  </section>
-  <!-- end Interests -->
-  {% endif %}
-
-
-
-
-
-
-
-
-
-  {% if site.resume_section_links %}
-  <!-- begin Links -->
-  <section class="content-section">
-
-    <header class="section-header">
-      <h2>Additional Links</h2>
-    </header>
-
-    <div class="resume-item">
-      <ul class="resume-item-list">
-        {% for link in site.data.links %}
-        <li><a href={{ link.url }} itemprop="url">{{ link.description }}</a></li>
-        {% endfor %}
-      </ul>
-    </div>
-
-  </section>
-  <!-- end Links -->
-  {% endif %}
-
-  {% if site.resume_print_social_links %}
-  <!-- begin Print Social Links -->
-  <section class="content-section print-only">
-
-    <header class="section-header">
-      <h2>Social Links</h2>
-    </header>
-
-    <div class="resume-item">
-    {% include print-social-links.html %}
-    </div>
-
-  </section>
-  <!-- end Print Social Links -->
-  {% endif %}
-
-
-  {%- if site.posts.size > 0 -%}
-    <ul class="posts">
+    {%- for post in site.posts -%}
+    <ul class="projects">
       <li>
-        <h1 id="posts-label">posts</h1>
+        {%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
+        <a class="resume-project-link" href="{{ post.url | relative_url }}">
+          <!-- <h2 class="post-title">{{ post.title | escape }}</h2> -->
+          <h4>{{ post.title | escape }}</h2>
+        </a>
+        <div class="post-meta">
+          <ul class="post-categories">
+            {%- for tag in post.categories -%}
+              <li>{{ tag }}</li>
+            {%- endfor -%}
+          </ul>
+          <!-- <div class="post-date">
+            <i class="icon-calendar"></i>
+            {{ post.date | date: date_format }}</div>
+          </div> -->
+        
+        <!-- <div class="post">
+          {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+          {%- endif -%}
+        </div> -->
       </li>
-
-      {%- for post in site.posts -%}
-        <li>
-          {%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            <h2>{{ post.title | escape }}</h2>
-          </a>
-        </li>
-      {%- endfor -%}
     </ul>
-  {%- endif -%}
+    {%- endfor -%}
 
-
-
-
-
-
-
+  </section>
 
 
 </div>
@@ -272,45 +144,3 @@ layout: default
 
 
 <!-- {{ content }} -->
-
-
-
-
-
-{%- if site.posts.size > 0 -%}
-  <ul class="posts">
-    <li>
-      <h1 id="posts-label">posts</h1>
-    </li>
-
-    {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          <!-- <h2 class="post-title">{{ post.title | escape }}</h2> -->
-          <h2>{{ post.title | escape }}</h2>
-        </a>
-        <!-- <div class="post-meta">
-          <ul class="post-categories">
-            {%- for tag in post.categories -%}
-              <li>{{ tag }}</li>
-            {%- endfor -%}
-          </ul>
-          <div class="post-date">
-            <i class="icon-calendar"></i>
-            {{ post.date | date: date_format }}</div>
-        </div>
-        <div class="post">
-          {%- if site.show_excerpts -%}
-            {{ post.excerpt }}
-          {%- endif -%}
-        </div> -->
-      </li>
-    {%- endfor -%}
-  </ul>
-
-  <!-- <p class="feed-subscribe"><svg class="svg-icon orange">
-		<use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-	</svg><a href="{{ "/feed.xml" | relative_url }}">Subscribe</a></p> -->
-{%- endif -%}
-

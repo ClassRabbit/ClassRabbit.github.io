@@ -244,12 +244,54 @@ main {
 }
 
 #posts-label {
-  border-bottom: 1px solid #eee;
-  font-size: 20px;
-  // color: #777;
-  color: #000;
+  // border-bottom: 1px solid #eee;
+  // font-size: 20px;
+  // // color: #777;
+  // color: #000;
+  // text-transform: uppercase;
+  // letter-spacing: 0.5px;
+  // padding-bottom: 10px;
+  // font-weight: normal;
+
+  font-weight: 900;
+  font-size: 1.75rem;
   text-transform: uppercase;
+  border-bottom: 1px solid #aaa;
   letter-spacing: 0.5px;
   padding-bottom: 10px;
+}
+
+
+.projects {
+  list-style-type: none;
+  // margin: 0px -20px;
+  // @media screen and (max-width: $smallMobileW) {
+  //   margin-left: 20px;
+  //   margin-right: 20px;
+  // }
+  // @media screen and (max-width: $mobileW) {
+  //   padding: 0 !important;
+  //   margin-top: 0;
+  // }
+}
+
+
+.resume-item-details {
+  margin: 5px 20px;
+  // font-size: 1.125rem;
+  // margin: 0 0 .75rem;
+  // line-height: 1;
+
+  // &.award-title {
+  //   font-size: 1rem;
+  // }
+}
+
+.resume-item {
+  margin: 0px 0px 45px 0px;
+}
+
+.resume-project-link {
+  text-decoration: none;
   font-weight: normal;
 }
