@@ -96,13 +96,23 @@ main {
     }
     .tagline {
       font-size: 22px;
-      margin-top: 17px;
-      color: #aaa;
+      margin-top: 20px;
+      // color: #aaa;
       white-space: pre-wrap;
       line-height: normal;
     }
+
+    .tagline2 {
+      font-size: 15px;
+      margin-top: 0px;
+      // color: #aaa;
+      // white-space: pre-wrap;
+      line-height: normal;
+    }
+
+
     img {
-      max-width: 150px;
+      max-width: 200px;
     }
   }
 }

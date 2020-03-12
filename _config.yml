@@ -1,6 +1,6 @@
 title: IronKim
 author: 김민찬
-email: livingkmc@gmail.com
+
 description: > # this means to ignore newlines until "show_exerpts:"
   김민찬 포트폴리오
 show_excerpts: true # set to true to show excerpts on the homepage
@@ -10,17 +10,19 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: 김민찬
+  tagline: Game Developer
+  email: livingkmc@gmail.com
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
-    rss: rss
+    github:  IronKim
+    # twitter: thelehhman
+    
+    # linkedIn: in/thelehhman
+    # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
