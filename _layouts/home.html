@@ -74,7 +74,7 @@ layout: default
 
   {% if site.resume_section_prizes %}
   <br>
-  <!-- begin Experience -->
+  <!-- begin Prize -->
   <section class="content-section">
 
     <header class="section-header">
@@ -90,7 +90,7 @@ layout: default
     {% endfor %}
 
   </section>
-  <!-- end Experience -->
+  <!-- end Prize -->
   {% endif %}
 
 
@@ -108,31 +108,20 @@ layout: default
     </header>
 
     {%- for post in site.posts -%}
-    <ul class="projects">
-      <li>
-        {%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
-        <a class="resume-project-link" href="{{ post.url | relative_url }}">
-          <!-- <h2 class="post-title">{{ post.title | escape }}</h2> -->
-          <h4>{{ post.title | escape }}</h2>
-        </a>
-        <div class="post-meta">
-          <ul class="post-categories">
-            {%- for tag in post.categories -%}
-              <li>{{ tag }}</li>
-            {%- endfor -%}
-          </ul>
-          <!-- <div class="post-date">
-            <i class="icon-calendar"></i>
-            {{ post.date | date: date_format }}</div>
-          </div> -->
-        
-        <!-- <div class="post">
-          {%- if site.show_excerpts -%}
-            {{ post.excerpt }}
-          {%- endif -%}
-        </div> -->
-      </li>
-    </ul>
+    <div class="resume-project-item">
+      <a class="resume-project-link" href="{{ post.url | relative_url }}">
+        <!-- <h2 class="post-title">{{ post.title | escape }}</h2> -->
+        <h4>{{ post.title | escape }}</h2>
+      </a>
+
+      <div class="project-meta">
+        <div class="project-categories">
+          {%- for tag in post.categories -%}
+            <li>{{ tag }}</li>
+          {%- endfor -%}
+        </div>
+      </div>
+    </div><!-- end of resume-item -->
     {%- endfor -%}
 
   </section>
