@@ -304,6 +304,14 @@ main {
 .resume-prize-img {
   max-width: 350px;
   border: 1px solid #555;
+
+  // @media screen and (min-width: $mobileW + 1) and (max-width: 1250px) {
+  //   max-width: 100%;
+  // }
+
+  @media screen and (max-width: $mobileW) {
+    max-width: 60%;
+  }
 }
 
 .resume-project-link {
@@ -351,4 +359,13 @@ main {
 .post-img {
   max-width: 800px;
   border: 1px solid #555;
+
+  @media screen and (min-width: $mobileW + 1) and (max-width: 1250px) {
+    max-width: 100%;
+  }
+
+  @media screen and (max-width: $mobileW) {
+    max-width: 80%;
+  }
+
 }
