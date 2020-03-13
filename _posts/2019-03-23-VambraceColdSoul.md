@@ -4,8 +4,10 @@ title:  "Vambrace Cold Soul"
 date:   2019-05-28
 categories: Unity DevespressoGames
 ---
+  
 
-<img src="https://IronKim.github.io/assets/image/project/VambraceColdSoul/logo.jpg"> 
+<center><a href="https://ironkim.github.io/assets/image/project/vambrace/logo.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/logo.png"></a></center>
+  
 
 ---
 ### 게임 설명
@@ -15,11 +17,11 @@ Devespresso Games에서 개발한 2D 횡스크롤 어드벤쳐 게임 **"Vambrac
 
 ---
 ### 관련 페이지
-[Steam Store][steam-url]{: target="_blank"}  
-[GOG Store][gog-url]{: target="_blank"}  
-[트레일러 영상][trailer-url]{: target="_blank"}  
-[마을 영상][town-url]{: target="_blank"}  
-[전투 영상][combat-url]{: target="_blank"}  
+[Steam Store][url-steam]{: target="_blank"}  
+[GOG Store][url-gog]{: target="_blank"}  
+[트레일러 영상][url-trailer]{: target="_blank"}  
+[마을 영상][url-town]{: target="_blank"}  
+[전투 영상][url-combat]{: target="_blank"}  
 
 ---
 ### 개발 기간
@@ -89,10 +91,49 @@ Devespresso Games에서 개발한 2D 횡스크롤 어드벤쳐 게임 **"Vambrac
 1. Git-flow 전략을 통한 브랜치 관리
 2. Steam, GOG SDK를 이용한 업적 시스템
 
+---
+### 경험 및 이슈
 
 
-[steam-url]: https://store.steampowered.com/app/904380/Vambrace_Cold_Soul/
-[gog-url]: https://www.gog.com/game/vambrace_cold_soul
-[trailer-url]: https://www.youtube.com/watch?v=iAbsjz1AMB8
-[town-url]: https://www.youtube.com/watch?v=y2HeLfAQrYk
-[combat-url]: https://www.youtube.com/watch?v=C1fLBnosflY
+
+---
+### 이미지
+* 메인메뉴
+<center><a href="https://ironkim.github.io/assets/image/project/vambrace/mainmenu.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/mainmenu.png"></a></center>
+
+* 마을 내부
+<center><a href="https://ironkim.github.io/assets/image/project/vambrace/town0.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/town0.png"></a></center>
+
+* 마을 외부
+<center><a href="https://ironkim.github.io/assets/image/project/vambrace/town1.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/town1.png"></a></center>
+
+* 전투
+<center><a href="https://ironkim.github.io/assets/image/project/vambrace/combat.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/combat.png"></a></center>
+
+* 대화
+<center><a href="https://ironkim.github.io/assets/image/project/vambrace/dialogue.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/dialogue.png"></a></center>
+
+* 고용
+<center><a href="https://ironkim.github.io/assets/image/project/vambrace/employ.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/employ.png"></a></center>
+
+* 캐릭터 정보
+<center><a href="https://ironkim.github.io/assets/image/project/vambrace/bio.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/bio.png"></a></center>
+
+* 인벤토리
+<center><a href="https://ironkim.github.io/assets/image/project/vambrace/inventory.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/inventory.png"></a></center>
+
+* 노트
+<center><a href="https://ironkim.github.io/assets/image/project/vambrace/note.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/note.png"></a></center>
+
+* 옵션
+<center><a href="https://ironkim.github.io/assets/image/project/vambrace/option.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/option.png"></a></center>
+
+* 업적
+<center><a href="https://ironkim.github.io/assets/image/project/vambrace/achievement.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/achievement.png"></a></center>
+
+[url-steam]: https://store.steampowered.com/app/904380/Vambrace_Cold_Soul/
+[url-gog]: https://www.gog.com/game/vambrace_cold_soul
+[url-trailer]: https://www.youtube.com/watch?v=iAbsjz1AMB8
+[url-town]: https://www.youtube.com/watch?v=y2HeLfAQrYk
+[url-combat]: https://www.youtube.com/watch?v=C1fLBnosflY
+
