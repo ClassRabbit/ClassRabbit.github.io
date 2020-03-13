@@ -86,6 +86,8 @@ layout: default
       <h4 class="resume-item-title" itemprop="name">{{ prize.name }}</h3>
       <p class="resume-item-details" itemprop="description">{{ prize.company }} &bull; {{ prize.date }}</h4>
       <p class="resume-item-details" itemprop="description">{{ prize.summary }}</p>
+      <img class="resume-prize-img" src="{{ "/assets/image/prize/" }}{{ prize.img }}" alt="{{ prize.img }}" max-width={{ prize.maxWidth }}>
+      <!-- <img src="{{ "/assets/image/profile/profile.png" | relative_url }}" -->
     </div><!-- end of resume-item -->
     {% endfor %}
 
