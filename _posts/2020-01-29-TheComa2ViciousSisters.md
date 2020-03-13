@@ -10,7 +10,8 @@ categories: Game Unity DevespressoGames
   
 
 ---
-### 게임 설명
+### 설명
+**OGN 2020 2월 G-RANK 챌린지 서울상 수상작**  
 Devespresso Games에서 개발한 2D 횡스크롤 미스테리 공포 게임 **"The Coma2: Vicious Sisters"** 입니다.  
 전작 **"The Coma: Cutting Class"**의 후속작으로, 쫒아오는 킬러를 피해 퍼즐과 QTE를 해결해 나가는 런앤하이드 게임입니다.  
 갑작스럽게 코마 세계에 들어온 주인공 "미나"가 위기를 피해 현실 세계로 탈출하는 이야기를 담았습니다.
@@ -72,7 +73,7 @@ Devespresso Games에서 개발한 2D 횡스크롤 미스테리 공포 게임 **"
 9. 쉐이더를 사용한 화면 효과
 10. 현재 위치에 맞춰 업데이트 되는 지도
 11. 원근감을 위한 Parallax 맵 구현
-12. AssetBundle을 이용한 플래이어 DLC 스킨
+12. AssetBundle을 이용한 플래이어 DLC 코스튬
 13. 다양한 컨트롤러 지원
     * 키보드
     * PS 컨트롤러
@@ -97,6 +98,7 @@ Devespresso Games에서 개발한 2D 횡스크롤 미스테리 공포 게임 **"
 **기타**
 1. Git-flow 전략을 통한 브랜치 관리
 2. Steam, GOG SDK를 이용한 업적 시스템, 클라우드 세이브
+3. Unity Analytics을 이용한 활동 분석
 
 **Vambrace: Cold Soul에서 개선점**
 1. 기존 모듈을 상속 중심에서 컴포넌트 중심으로 리팩토링

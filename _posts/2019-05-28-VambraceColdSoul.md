@@ -10,7 +10,7 @@ categories: Game Unity DevespressoGames
   
 
 ---
-### 게임 설명
+### 설명
 Devespresso Games에서 개발한 2D 횡스크롤 어드벤쳐 게임 **"Vambrace: Cold Soul"** 입니다.  
 기본적인 RPG 기능을 토대로 **"Darkest Dungeon"**과 유사한 캐릭터 고용 방식 및 턴제 전투 시스템을 가진 로그라이크 게임입니다.  
 얼어붙은 지하 도시에서 시작되는 주인공의 모험 이야기를 담은 게임으로 비주얼 노벨 방식의 시스템을 통해 진행되는 스토리와 선택지를 통해 3개의 엔딩을 경험할 수 있습니다.
