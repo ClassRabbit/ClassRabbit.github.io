@@ -13,7 +13,7 @@ categories: Game Unity DevespressoGames
 ### 게임 설명
 Devespresso Games에서 개발한 2D 횡스크롤 미스테리 공포 게임 **"The Coma2: Vicious Sisters"** 입니다.  
 전작 **"The Coma: Cutting Class"**의 후속작으로, 쫒아오는 킬러를 피해 퍼즐과 QTE를 해결해 나가는 런앤하이드 게임입니다.  
-주인공 "미나"가 갑작스럽게 코마 세계에 들어와 위기를 피해 현실 세계로 탈출하는 이야기를 담았습니다.
+갑작스럽게 코마 세계에 들어온 주인공 "미나"가 위기를 피해 현실 세계로 탈출하는 이야기를 담았습니다.
 
 ---
 ### 관련 페이지
@@ -116,37 +116,49 @@ Devespresso Games에서 개발한 2D 횡스크롤 미스테리 공포 게임 **"
 ---
 ### 이미지
 * 메인메뉴
-<center><a href="https://ironkim.github.io/assets/image/project/vambrace/mainmenu.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/mainmenu.png"></a></center>
+<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/mainmenu.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/mainmenu.png"></a></center>
 
-* 마을 내부
-<center><a href="https://ironkim.github.io/assets/image/project/vambrace/town0.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/town0.png"></a></center>
+* 탐험
+<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/play0.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/play0.png"></a></center>
 
-* 마을 외부
-<center><a href="https://ironkim.github.io/assets/image/project/vambrace/town1.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/town1.png"></a></center>
+* 숨기
+<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/play1.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/play1.png"></a></center>
+<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/play2.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/play2.png"></a></center>
 
-* 전투
-<center><a href="https://ironkim.github.io/assets/image/project/vambrace/combat.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/combat.png"></a></center>
+* QTE
+<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/qte.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/qte.png"></a></center>
+<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/craft.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/craft.png"></a></center>
+
+* 피격
+<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/attack0.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/attack0.png"></a></center>
+<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/attack1.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/attack1.png"></a></center>
+
+* 잡기
+<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/catch.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/catch.png"></a></center>
 
 * 대화
-<center><a href="https://ironkim.github.io/assets/image/project/vambrace/dialogue.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/dialogue.png"></a></center>
+<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/dialogue.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/dialogue.png"></a></center>
 
-* 고용
-<center><a href="https://ironkim.github.io/assets/image/project/vambrace/employ.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/employ.png"></a></center>
-
-* 캐릭터 정보
-<center><a href="https://ironkim.github.io/assets/image/project/vambrace/bio.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/bio.png"></a></center>
+* 컷씬
+<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/cutscene.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/cutscene.png"></a></center>
 
 * 인벤토리
-<center><a href="https://ironkim.github.io/assets/image/project/vambrace/inventory.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/inventory.png"></a></center>
+<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/inventory.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/inventory.png"></a></center>
+
+* 자판기 상점
+<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/vending.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/vending.png"></a></center>
 
 * 노트
-<center><a href="https://ironkim.github.io/assets/image/project/vambrace/note.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/note.png"></a></center>
+<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/note.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/note.png"></a></center>
 
 * 옵션
-<center><a href="https://ironkim.github.io/assets/image/project/vambrace/option.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/option.png"></a></center>
+<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/option.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/option.png"></a></center>
 
 * 업적
-<center><a href="https://ironkim.github.io/assets/image/project/vambrace/achievement.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/achievement.png"></a></center>
+<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/achievement.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/achievement.png"></a></center>
+
+* DLC 코스튬
+<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/dlc.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/dlc.png"></a></center>
 
 [url-steam]: https://store.steampowered.com/app/1045720/The_Coma_2_Vicious_Sisters
 [url-gog]: https://www.gog.com/game/the_coma_2_vicious_sisters
