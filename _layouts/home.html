@@ -83,10 +83,10 @@ layout: default
 
     {% for prize in site.data.prizes %}
     <div class="resume-item">
-      <h4 class="resume-item-title" itemprop="name">{{ prize.name }}</h3>
+      <h4 class="resume-item-title" itemprop="name">{{ prize.name }}</h4>
       <p class="resume-item-details" itemprop="description">{{ prize.company }} &bull; {{ prize.date }}</h4>
       <p class="resume-item-details" itemprop="description">{{ prize.summary }}</p>
-      <img class="resume-prize-img" src="{{ "/assets/image/prize/" }}{{ prize.img }}" alt="{{ prize.img }}" max-width={{ prize.maxWidth }}>
+      <img class="resume-prize-img" src="{{ "/assets/image/prize/" }}{{ prize.img }}" alt="{{ prize.img }}">
       <!-- <img src="{{ "/assets/image/profile/profile.png" | relative_url }}" -->
     </div><!-- end of resume-item -->
     {% endfor %}
@@ -98,10 +98,7 @@ layout: default
 
 
 
-
-
   <!-- begin Projects -->
-  <br>
   <br>
   <section class="content-section">
     <header class="section-header">
@@ -113,7 +110,7 @@ layout: default
     <div class="resume-project-item">
       <a class="resume-project-link" href="{{ post.url | relative_url }}">
         <!-- <h2 class="post-title">{{ post.title | escape }}</h2> -->
-        <h4>{{ post.title | escape }}</h2>
+        <h4>{{ post.title | escape }}</h4>
       </a>
 
       <div class="project-meta">
@@ -125,7 +122,6 @@ layout: default
       </div>
     </div><!-- end of resume-item -->
     {%- endfor -%}
-
   </section>
 
 
