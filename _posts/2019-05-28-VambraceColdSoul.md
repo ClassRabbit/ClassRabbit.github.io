@@ -101,7 +101,7 @@ Devespresso Games에서 개발한 2D 횡스크롤 어드벤쳐 게임 **"Vambrac
 
 ---
 ### 이미지
-* 메인메뉴
+* 메인 메뉴
 <center><a href="https://ironkim.github.io/assets/image/project/vambrace/mainmenu.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/mainmenu.png"></a></center>
 
 * 마을 내부

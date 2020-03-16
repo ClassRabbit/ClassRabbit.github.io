@@ -117,7 +117,7 @@ Devespresso Games에서 개발한 2D 횡스크롤 미스테리 공포 게임 **"
 
 ---
 ### 이미지
-* 메인메뉴
+* 메인 메뉴
 <center><a href="https://ironkim.github.io/assets/image/project/thecoma2/mainmenu.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/mainmenu.png"></a></center>
 
 * 탐험
