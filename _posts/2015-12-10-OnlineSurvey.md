@@ -6,7 +6,7 @@ categories: JavaScript Node.js
 ---
   
 
-<center><a href="https://ironkim.github.io/assets/image/project/onlineservey/logo.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/onlineservey/logo.png"></a></center>
+<center><a href="https://ironkim.github.io/assets/image/project/onlinesurvey/logo.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/onlinesurvey/logo.png"></a></center>
   
 
 ---
@@ -66,19 +66,19 @@ Google 설문을 참고하여 최대한 동일한 기능을 제공하는 웹 설
 ### 이미지
 
 * 회원 가입
-<center><a href="https://ironkim.github.io/assets/image/project/onlineservey/signin.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/onlineservey/signin.png"></a></center>
+<center><a href="https://ironkim.github.io/assets/image/project/onlinesurvey/signin.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/onlinesurvey/signin.png"></a></center>
 
 * 설문 생성
-<center><a href="https://ironkim.github.io/assets/image/project/onlineservey/create.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/onlineservey/create.png"></a></center>
+<center><a href="https://ironkim.github.io/assets/image/project/onlinesurvey/create.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/onlinesurvey/create.png"></a></center>
 
 * 설문 초대
-<center><a href="https://ironkim.github.io/assets/image/project/onlineservey/invite.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/onlineservey/invite.png"></a></center>
+<center><a href="https://ironkim.github.io/assets/image/project/onlinesurvey/invite.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/onlinesurvey/invite.png"></a></center>
 
 * 설문 참여
-<center><a href="https://ironkim.github.io/assets/image/project/onlineservey/survey.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/onlineservey/survey.png"></a></center>
+<center><a href="https://ironkim.github.io/assets/image/project/onlinesurvey/survey.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/onlinesurvey/survey.png"></a></center>
 
 * 설문 결과 조회
-<center><a href="https://ironkim.github.io/assets/image/project/onlineservey/result.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/onlineservey/result.png"></a></center>
+<center><a href="https://ironkim.github.io/assets/image/project/onlinesurvey/result.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/onlinesurvey/result.png"></a></center>
 
 
 [url-github]: https://github.com/IronKim/OnlineSurvey

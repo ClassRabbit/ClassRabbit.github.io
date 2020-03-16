@@ -63,16 +63,16 @@ categories: JavaScript Node.js
 ### 이미지
 
 * 데이터 입력
-<center><a href="https://ironkim.github.io/assets/image/project/rain/input.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/rain/input.png"></a></center>
+<center><a href="https://ironkim.github.io/assets/image/project/visualization/input.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/visualization/input.png"></a></center>
 
 * 트리맵 그래프
-<center><a href="https://ironkim.github.io/assets/image/project/rain/treemap.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/rain/treemap.png"></a></center>
+<center><a href="https://ironkim.github.io/assets/image/project/visualization/treemap.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/visualization/treemap.png"></a></center>
 
 * 도넛 그래프
-<center><a href="https://ironkim.github.io/assets/image/project/rain/donut.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/rain/donut.png"></a></center>
+<center><a href="https://ironkim.github.io/assets/image/project/visualization/donut.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/visualization/donut.png"></a></center>
 
 * 화살표 그래프
-<center><a href="https://ironkim.github.io/assets/image/project/rain/arrow.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/rain/arrow.png"></a></center>
+<center><a href="https://ironkim.github.io/assets/image/project/visualization/arrow.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/visualization/arrow.png"></a></center>
 
 [url-github]: https://github.com/IronKim/WithMe
 [url-play]: https://www.youtube.com/watch?v=MK1WQb5gSS8
