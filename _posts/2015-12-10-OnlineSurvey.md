@@ -2,6 +2,7 @@
 layout: post
 title:  "OnlineSurvey"
 date:   2015-12-10 00:00:00 +0530
+term:   2015.08 ~ 2015.12
 categories: JavaScript Node.js
 ---
   
@@ -34,6 +35,7 @@ Google 설문을 참고하여 최대한 동일한 기능을 제공하는 웹 설
 
 **프레임워크/플러그인**
 * Express
+* Bootstrap
 * Bcryptjs
 
 **DB**

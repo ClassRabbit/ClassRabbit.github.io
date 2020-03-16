@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Visualization"
-date:   2016-11-01 00:00:00 +0530
+date:   2016-08-01 00:00:00 +0530
+term:   2016.07 ~ 2016.08
 categories: JavaScript Node.js
 ---
   
@@ -17,7 +18,7 @@ categories: JavaScript Node.js
 
 ---
 ### 개발 기간
-2016.07 ~ 2016.11
+2016.07 ~ 2016.08
 
 ---
 ### 개발 인원
