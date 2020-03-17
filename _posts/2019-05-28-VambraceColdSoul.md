@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vambrace Cold Soul"
+title:  "Vambrace: Cold Soul"
 date:   2019-05-28 00:00:00 +0530
 term:   2017.08 ~ 2019.05
 categories: Game Unity DevespressoGames

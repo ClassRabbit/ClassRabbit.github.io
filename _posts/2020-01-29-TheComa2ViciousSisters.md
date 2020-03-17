@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Coma2 Vicious Sisters"
+title:  "The Coma2: Vicious Sisters"
 date:   2020-01-29 00:00:00 +0530
 term:   2018.10 ~ 2020.02
 categories: Game Unity DevespressoGames
