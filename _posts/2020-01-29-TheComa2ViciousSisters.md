@@ -177,7 +177,7 @@ AssetBundleDemo 프로젝트(구 AssetBundle Manager)를 참고하여 에셋번�
 * 업적
 <center><a href="https://ironkim.github.io/assets/image/project/thecoma2/achievement.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/achievement.png"></a></center>
 
-* DLC 코스튬
+* DLC 스킨
 <center><a href="https://ironkim.github.io/assets/image/project/thecoma2/dlc.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/dlc.png"></a></center>
 
 [url-steam]: https://store.steampowered.com/app/1045720/The_Coma_2_Vicious_Sisters
