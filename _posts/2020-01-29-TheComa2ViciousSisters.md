@@ -116,7 +116,7 @@ Devespresso Games에서 개발한 2D 횡스크롤 미스테리 공포 게임 **"
 ### 경험 및 이슈
 **Google2U를 이용한 테스트**  
 Vambrace:Cold Soul 개발 당시 팀원들이 협업과정에서 Google Spreadsheet를 이용해서 Database 내용을 작성해 왔으며 이 결과물을 csv 파일로 다운로드하여 SQLite에 임포트해오는 과정으로 개발을 진행해왔습니다.  
-하지만 한 번의 Spreadsheat 수정이 필요할 경우 위의 과정을 매번 반복한다는 점이 상당히 불편하였으며 진행 속도를 뎌디게 만들어 왔습니다.  
+하지만 한 번의 Spreadsheat 수정이 필요할 경우 위의 과정을 매번 반복한다는 점이 상당히 불편하였으며 진행 속도를 느리게 만들어 왔습니다.  
 이 문제를 해결하기 위해 Unity에서 Google SpreadSheet에 접근해 다양한 포멧으로 다운로드 해주는 **Google2U**을 이용하여 Unity에서 Google SpreadSheet를 JSON으로 다운로드할 수 있도록 세팅한 뒤 이 JSON을 파싱해서 테스트를 진행할 수 있도록 계획하였습니다.  
 이를 위해 Database 조회 클래스의 동일한 함수를 Scripting define symbols을 이용하여 Json, SQLite로 각각 구현하였습니다.  
 그 결과 SpreadSheat 구성 내용을 테스트하는 과정에서는 JSON을 이용하는 상태로 보다 빠르게 수정 및 다운로드하여 진행하였으며 SpreadSheat 구성 내용이 결정되면 SQLite로 임포트하여 기존 과정을 1회로 축소할 수 있었습니다. 또한 Scripting define symbols로 JSON 기능을 실제 라이브용 빌드 시 포함되지 않도록 할 수 있었습니다.
