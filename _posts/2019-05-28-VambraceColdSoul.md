@@ -103,15 +103,15 @@ Devespresso Games에서 개발한 2D 횡스크롤 어드벤쳐 게임 **"Vambrac
 
 * 프래임 문제  
 당시 타겟 기기의 사양으로 인한 프래임률의 차이를 고려하지 않고 개발된 부분이 존재하였습니다.  
-프래임 차이로 발생할수 있는 문제에 대하여 알 수 있었던 이슈였으며 FixedUpdate나 DeltaTime을 이용하는 방식으로 해결하였습니다. 
+프래임 차이로 발생할 수 있는 문제에 대하여 알 수 있었던 이슈였으며 FixedUpdate나 DeltaTime을 이용하는 방식으로 해결하였습니다. 
 
 * 모듈 교체 이슈  
 컨트롤 입력, 세이브, 동영상 재생 등 몇가지 모듈이 PlayStation에서 사용되는 방식으로 변경이 필요하였습니다.  
-이를 위해 Git의 기존의 PC로만 진행해오던 Develop 브랜치를 Develop_PC와 Develop_PS로 나누웠습니다.  
-이후 PlayStation 관련한 모듈은 PS 브랜치에서 개발하였으며 공통적인 Feature는 PC 브랜치에서 개발 후 PS 브랜치에 병합하는 방식으로 진행하였습니다.  
+이를 위해 Git의 기존의 PC로만 진행해오던 Develop 브랜치를 Develop_PC 브랜치와 Develop_PS 브랜치로 나누웠습니다.  
+이후 PlayStation 관련한 모듈은 Develop_PS 브랜치에서 개발하였으며 공통적인 Feature는 Develop_PC 브랜치에서 개발 후 Develop_PS 브랜치에 병합하는 방식으로 진행하였습니다.  
 
 * PlayStation 기술지원팀과의 커뮤니케이션  
-PlayStation 개발에 관해 접근이 제한적인 부분이 있기 때문에 개발 관련한 정보를 Google 검색을 통해서 얻기 어려웠습니다. 이 점을 극복하기 위해서 PS4 DevNet 사이트를 이용하여 능동적으로 현재 이슈를 작성하고 Unity PlayStation 개발지원팀의 응답에 맞춰 개발을 진행하였습니다.
+PlayStation 개발에 관련하여 접근이 제한적인 부분이 있기 때문에 개발 정보를 Google 검색을 통해서 얻기 어려웠습니다. 이 점을 극복하기 위해서 PS4 DevNet 사이트를 이용하여 능동적으로 현재 이슈를 작성하고 Unity PlayStation 개발지원팀의 응답에 맞춰 개발을 진행하였습니다.
   
 
 ---
