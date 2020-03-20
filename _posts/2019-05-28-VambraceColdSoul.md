@@ -20,6 +20,7 @@ Devespresso Games에서 개발한 2D 횡스크롤 어드벤쳐 게임 **"Vambrac
 ### 관련 페이지
 [Steam Store][url-steam]{: target="_blank"}  
 [GOG Store][url-gog]{: target="_blank"}  
+[Origin Store][url-origin]{: target="_blank"}  
 [트레일러 영상][url-trailer]{: target="_blank"}  
 [특징 영상][url-feature]{: target="_blank"}  
 [마을 영상][url-town]{: target="_blank"}  
@@ -93,7 +94,7 @@ Devespresso Games에서 개발한 2D 횡스크롤 어드벤쳐 게임 **"Vambrac
 
 **기타**
 1. Git-flow 전략을 통한 브랜치 관리
-2. Steam, GOG SDK를 이용한 업적 시스템
+2. Steam, GOG, Origin SDK를 이용한 업적 시스템
 
 ---
 ### 경험 및 이슈
@@ -137,6 +138,7 @@ Devespresso Games에서 개발한 2D 횡스크롤 어드벤쳐 게임 **"Vambrac
 
 [url-steam]: https://store.steampowered.com/app/904380/Vambrace_Cold_Soul
 [url-gog]: https://www.gog.com/game/vambrace_cold_soul
+[url-origin]: https://www.origin.com/kor/ko-kr/store/vambrace-cold-soul/vambrace-cold-soul
 [url-trailer]: https://www.youtube.com/watch?v=iAbsjz1AMB8
 [url-feature]: https://youtu.be/VH2GtnaYft8
 [url-town]: https://www.youtube.com/watch?v=y2HeLfAQrYk

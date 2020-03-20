@@ -285,6 +285,9 @@ main {
   // }
 }
 
+.resume-prize-title {
+  font-weight: bold;
+}
 
 .resume-item-details {
   margin: 5px 20px;
@@ -368,4 +371,13 @@ main {
     max-width: 80%;
   }
 
+}
+
+summary{
+  outline:none;
+}
+
+summary:hover {
+  cursor: pointer;
+  color: #0a59b0;
 }
