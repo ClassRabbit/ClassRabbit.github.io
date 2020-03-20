@@ -103,7 +103,7 @@ Devespresso Games에서 개발한 2D 횡스크롤 어드벤쳐 게임 **"Vambrac
 ---
 ### 경험 및 이슈
 **PlayStation4 포팅**  
-2018년 제 5회 PlayStation Arena 참가를 목적으로 PlayStation 포팅을 진행하였습니다.  
+2018년 제 5회 PlayStation Arena 참가를 목적으로 PlayStation 포팅을 진행하며 다음과 같은 이슈를 경험하였습니다.
 
 * 프래임 문제  
 당시 타겟 기기의 사양으로 인한 프래임률의 차이를 고려하지 않고 개발된 부분이 존재하였습니다.  
