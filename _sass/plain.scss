@@ -231,7 +231,7 @@ main {
   padding-left: 30px;
 }
 .post {
-  // font-family: "Merriweather", sans-serif;
+  font-family: "Merriweather", sans-serif;
   font-weight: 300;
   color: #222;
   line-height: 1.9em;
@@ -249,6 +249,9 @@ main {
   h4,
   h5,
   h6 {
+    font-family: Raleway, sans-serif;
+  }
+  p {
     font-family: Raleway, sans-serif;
   }
 }

@@ -101,7 +101,7 @@ Devespresso Games에서 개발한 2D 횡스크롤 미스테리 공포 게임 **"
 
 **최적화**
 * Sprite Atlas를 통해서 드로우콜 최소화
-* 가능한 영역에서 Static Batch 사용
+* 가능한 영역에서 Static Batching 사용
 * 플래이어가 존재하는 구역 외 맵은 Active를 Off해서 불필요한 비용 감소
 
 **기타**
