@@ -7,7 +7,7 @@ categories: Game Unity DevespressoGames
 ---
   
 
-<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/logo.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/logo.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/thecoma2/logo.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/thecoma2/logo.png"></a></center>
   
 
 ---
@@ -136,49 +136,49 @@ AssetBundleDemo 프로젝트(구 AssetBundle Manager)를 참고하여 에셋번�
 ---
 ### 이미지
 * 메인 메뉴
-<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/mainmenu.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/mainmenu.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/thecoma2/mainmenu.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/thecoma2/mainmenu.png"></a></center>
 
 * 탐험
-<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/play0.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/play0.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/thecoma2/play0.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/thecoma2/play0.png"></a></center>
 
 * 숨기
-<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/play1.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/play1.png"></a></center>
-<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/play2.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/play2.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/thecoma2/play1.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/thecoma2/play1.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/thecoma2/play2.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/thecoma2/play2.png"></a></center>
 
 * QTE
-<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/qte.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/qte.png"></a></center>
-<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/craft.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/craft.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/thecoma2/qte.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/thecoma2/qte.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/thecoma2/craft.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/thecoma2/craft.png"></a></center>
 
 * 피격
-<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/attack0.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/attack0.png"></a></center>
-<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/attack1.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/attack1.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/thecoma2/attack0.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/thecoma2/attack0.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/thecoma2/attack1.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/thecoma2/attack1.png"></a></center>
 
 * 잡기
-<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/catch.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/catch.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/thecoma2/catch.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/thecoma2/catch.png"></a></center>
 
 * 대화
-<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/dialogue.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/dialogue.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/thecoma2/dialogue.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/thecoma2/dialogue.png"></a></center>
 
 * 컷씬
-<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/cutscene.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/cutscene.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/thecoma2/cutscene.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/thecoma2/cutscene.png"></a></center>
 
 * 인벤토리
-<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/inventory.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/inventory.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/thecoma2/inventory.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/thecoma2/inventory.png"></a></center>
 
 * 자판기 상점
-<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/vending.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/vending.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/thecoma2/vending.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/thecoma2/vending.png"></a></center>
 
 * 노트
-<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/note.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/note.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/thecoma2/note.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/thecoma2/note.png"></a></center>
 
 * 옵션
-<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/option.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/option.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/thecoma2/option.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/thecoma2/option.png"></a></center>
 
 * 업적
-<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/achievement.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/achievement.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/thecoma2/achievement.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/thecoma2/achievement.png"></a></center>
 
 * DLC 스킨
-<center><a href="https://ironkim.github.io/assets/image/project/thecoma2/dlc.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/thecoma2/dlc.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/thecoma2/dlc.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/thecoma2/dlc.png"></a></center>
 
 [url-steam]: https://store.steampowered.com/app/1045720/The_Coma_2_Vicious_Sisters
 [url-gog]: https://www.gog.com/game/the_coma_2_vicious_sisters

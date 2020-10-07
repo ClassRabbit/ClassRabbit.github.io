@@ -7,7 +7,7 @@ categories: Game Unity DevespressoGames
 ---
   
 
-<center><a href="https://ironkim.github.io/assets/image/project/vambrace/logo.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/logo.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/vambrace/logo.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/vambrace/logo.png"></a></center>
   
 
 ---
@@ -121,37 +121,37 @@ PlayStation 개발에 관련하여 접근이 제한적인 부분이 있기 때�
 ---
 ### 이미지
 * 메인 메뉴
-<center><a href="https://ironkim.github.io/assets/image/project/vambrace/mainmenu.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/mainmenu.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/vambrace/mainmenu.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/vambrace/mainmenu.png"></a></center>
 
 * 마을 내부
-<center><a href="https://ironkim.github.io/assets/image/project/vambrace/town0.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/town0.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/vambrace/town0.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/vambrace/town0.png"></a></center>
 
 * 마을 외부
-<center><a href="https://ironkim.github.io/assets/image/project/vambrace/town1.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/town1.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/vambrace/town1.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/vambrace/town1.png"></a></center>
 
 * 전투
-<center><a href="https://ironkim.github.io/assets/image/project/vambrace/combat.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/combat.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/vambrace/combat.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/vambrace/combat.png"></a></center>
 
 * 대화
-<center><a href="https://ironkim.github.io/assets/image/project/vambrace/dialogue.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/dialogue.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/vambrace/dialogue.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/vambrace/dialogue.png"></a></center>
 
 * 고용
-<center><a href="https://ironkim.github.io/assets/image/project/vambrace/employ.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/employ.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/vambrace/employ.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/vambrace/employ.png"></a></center>
 
 * 캐릭터 정보
-<center><a href="https://ironkim.github.io/assets/image/project/vambrace/bio.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/bio.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/vambrace/bio.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/vambrace/bio.png"></a></center>
 
 * 인벤토리
-<center><a href="https://ironkim.github.io/assets/image/project/vambrace/inventory.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/inventory.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/vambrace/inventory.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/vambrace/inventory.png"></a></center>
 
 * 노트
-<center><a href="https://ironkim.github.io/assets/image/project/vambrace/note.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/note.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/vambrace/note.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/vambrace/note.png"></a></center>
 
 * 옵션
-<center><a href="https://ironkim.github.io/assets/image/project/vambrace/option.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/option.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/vambrace/option.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/vambrace/option.png"></a></center>
 
 * 업적
-<center><a href="https://ironkim.github.io/assets/image/project/vambrace/achievement.png" target="_blank"><img class="post-img" src="https://ironkim.github.io/assets/image/project/vambrace/achievement.png"></a></center>
+<center><a href="https://classrabbit.github.io/assets/image/project/vambrace/achievement.png" target="_blank"><img class="post-img" src="https://classrabbit.github.io/assets/image/project/vambrace/achievement.png"></a></center>
 
 [url-steam]: https://store.steampowered.com/app/904380/Vambrace_Cold_Soul
 [url-gog]: https://www.gog.com/game/vambrace_cold_soul
