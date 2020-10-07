@@ -1,4 +1,4 @@
-title: IronKim
+title: ClassRabbit
 author: 김민찬
 
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -18,7 +18,7 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    github:  https://github.com/IronKim
+    github:  https://github.com/ClassRabbit
     # twitter: thelehhman
     
     # linkedIn: in/thelehhman
