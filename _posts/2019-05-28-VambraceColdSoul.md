@@ -111,7 +111,7 @@ Devespresso Games에서 개발한 2D 횡스크롤 어드벤쳐 게임 **"Vambrac
 
 * 모듈 교체 이슈  
 컨트롤 입력, 세이브, 동영상 재생 등 몇가지 모듈이 PlayStation에서 사용되는 방식으로 변경이 필요하였습니다.  
-이를 위해 Git의 기존의 PC로만 진행해오던 Develop 브랜치를 Develop_PC 브랜치와 Develop_PS 브랜치로 나누웠습니다.  
+이를 위해 Git의 기존의 PC로만 진행해오던 Develop 브랜치를 Develop_PC 브랜치와 Develop_PS 브랜치로 나누었습니다.  
 이후 PlayStation 관련한 모듈은 Develop_PS 브랜치에서 개발하였으며 공통적인 Feature는 Develop_PC 브랜치에서 개발 후 Develop_PS 브랜치에 병합하는 방식으로 진행하였습니다.  
 
 * PlayStation 기술지원팀과의 커뮤니케이션  
