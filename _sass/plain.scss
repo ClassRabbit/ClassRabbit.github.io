@@ -149,7 +149,7 @@ main {
 
     a {
       display: block;
-      font-family: 'Raleway';
+      font-family: 'Merriweather';
       text-align: center;
       padding: 1rem 0;
       text-decoration: none;
@@ -231,8 +231,8 @@ main {
   padding-left: 30px;
 }
 .post {
-  font-family: "Raleway", sans-serif;
-  font-weight: 300;
+  font-family: "Merriweather", sans-serif;
+  font-weight: normal;
   color: #222;
   line-height: 1.9em;
   a {
@@ -263,7 +263,7 @@ main {
   // padding-bottom: 10px;
   // font-weight: normal;
 
-  font-weight: 900;
+  font-weight: bold;
   font-size: 1.75rem;
   text-transform: uppercase;
   border-bottom: 1px solid #aaa;
