@@ -48,9 +48,6 @@ plainwhite:
 #header_pages:
 # - about.md
 
-# Build settings
-theme: architect
-
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
