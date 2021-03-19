@@ -23,6 +23,7 @@ Devespresso Games에서 개발한 2D 횡스크롤 미스테리 공포 게임 **"
 ### 관련 페이지
 [Steam Store][url-steam]{: target="_blank"}  
 [GOG Store][url-gog]{: target="_blank"}  
+[Smilegate Stove Store][url-smilegate]{: target="_blank"}  
 [트레일러 영상][url-trailer]{: target="_blank"}  
 [플래이 영상1][url-play-0]{: target="_blank"}  
 [플래이 영상2][url-play-1]{: target="_blank"}  
@@ -184,6 +185,7 @@ AssetBundleDemo 프로젝트(구 AssetBundle Manager)를 참고하여 에셋번�
 
 [url-steam]: https://store.steampowered.com/app/1045720/The_Coma_2_Vicious_Sisters
 [url-gog]: https://www.gog.com/game/the_coma_2_vicious_sisters
+[url-smilegate]: https://indie.onstove.com/ko/games/223/
 [url-trailer]: https://youtu.be/FxuzlLULr18
 [url-play-0]: https://youtu.be/F9pJZmC9nik
 [url-play-1]: https://youtu.be/NQ-7fCQG1QM
