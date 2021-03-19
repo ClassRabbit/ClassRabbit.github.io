@@ -12,6 +12,8 @@ categories: Game Unity DevespressoGames
 
 ---
 ### 설명
+**타이페이 게임쇼 2020 인디게임 어워드 Grend Prix 수상작**  
+**타이페이 게임쇼 2020 인디게임 어워드 Best Narration 수상작**  
 **OGN 2020 2월 G-RANK 챌린지 서울상 수상작**  
 Devespresso Games에서 개발한 2D 횡스크롤 미스테리 공포 게임 **"The Coma2: Vicious Sisters"** 입니다.  
 전작 **"The Coma: Cutting Class"**의 후속작으로, 쫒아오는 킬러를 피해 퍼즐과 QTE를 해결해 나가는 런앤하이드 게임입니다.  
